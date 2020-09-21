@@ -1,0 +1,1 @@
+Each dev endpoint gets 5 DPUs by default (with a minimum of 2 DPUs), this was expensive enough to customer for midnight or weekend if you open the dev endpoint all the time. It's a way to deploy a endpoint quickly through AWS Cli.
